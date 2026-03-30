@@ -3,7 +3,7 @@
 # Author: Your Name
 # Course: Open Source Software
 
-STUDENT_NAME="Aashish Singh Negi"
+STUDENT_NAME="Rudra Narayan Mishra"
 SOFTWARE_CHOICE="Firefox"
 
 KERNEL=$(uname -r)
